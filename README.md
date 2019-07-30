@@ -25,7 +25,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/technosophos/moniker"
+	"github.com/habulinec/badmoniker"
 )
 
 func main() {
