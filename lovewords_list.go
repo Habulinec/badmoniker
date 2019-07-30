@@ -1,7 +1,7 @@
 package moniker
 
 // Animals is a generated list of words.
-var Animals = []string{
+var Lovewords = []string{
 	"cunt",
 	"bitch",
 	"pussy",
